@@ -12,3 +12,6 @@
     make -j4
     sudo make install
     export LD_LIBRARY_PATH=/opt/glibc-2.14/lib
+
+
+https://wiki.mikejung.biz/How_to_install_Glibc-2.15_on_CentOS6
